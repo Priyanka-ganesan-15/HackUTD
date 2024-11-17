@@ -1,0 +1,32 @@
+{
+    "symbol": "bitcoin",
+    "market_data": {
+        "id": "bitcoin",
+        "symbol": "btc",
+        "name": "Bitcoin",
+        "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+        "current_price": 90523,
+        "market_cap": 1790991621671,
+        "market_cap_rank": 1,
+        "fully_diluted_valuation": 1901133808889,
+        "total_volume": 44227125789,
+        "high_24h": 91577,
+        "low_24h": 89507,
+        "price_change_24h": -838.7932821981522,
+        "price_change_percentage_24h": -0.9181,
+        "market_cap_change_24h": -16423889974.9458,
+        "market_cap_change_percentage_24h": -0.90869,
+        "circulating_supply": 19783365.0,
+        "total_supply": 21000000.0,
+        "max_supply": 21000000.0,
+        "ath": 93477,
+        "ath_change_percentage": -3.30309,
+        "ath_date": "2024-11-13T16:15:35.520Z",
+        "atl": 67.81,
+        "atl_change_percentage": 133200.12045,
+        "atl_date": "2013-07-06T00:00:00.000Z",
+        "roi": null,
+        "last_updated": "2024-11-17T07:30:49.377Z",
+        "price_change_percentage_24h_in_currency": -0.9180987811393947
+    }
+}

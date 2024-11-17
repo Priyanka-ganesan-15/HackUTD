@@ -1,0 +1,401 @@
+{
+    "cryptocurrencies": [
+      {
+        "name": "Solana",
+        "symbol": "SOL",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $500 million daily.",
+          "market_capitalization": "Around $10 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 300,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://solana.com/solana-whitepaper.pdf"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Regularly discussed in crypto news.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Communities on Discord and Reddit."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 300,000 daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 7.8
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "market_data": {
+          "price_history": "Stable at $1, with minor fluctuations.",
+          "trading_volume": "Approximately $50 billion daily.",
+          "market_capitalization": "Around $70 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 100,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Regular coverage, especially regarding regulatory scrutiny.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Discussions on Bitcointalk and other crypto forums."
+        },
+        "regulatory_data": {
+          "compliance": false,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 100,000 daily.",
+          "network_hash_rate": "N/A (issued on multiple blockchains).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 6.8
+      },
+      {
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $1 billion daily.",
+          "market_capitalization": "Around $50 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 200,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Regular coverage, especially related to Binance exchange.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Discussions on Binance community forums."
+        },
+        "regulatory_data": {
+          "compliance": false,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 200,000 daily.",
+          "network_hash_rate": "N/A (Proof of Staked Authority).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 7.4
+      },
+      {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $300 million daily.",
+          "market_capitalization": "Around $5 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 100,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://www.avalabs.org/whitepapers"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Regularly discussed in crypto news.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Communities on Discord and Reddit."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 100,000 daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 7.5
+      },
+      {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $20 billion daily.",
+          "market_capitalization": "Around $600 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 1 million active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://bitcoin.org/bitcoin.pdf"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Extensive coverage across financial news outlets.",
+          "social_media_posts": "Highly active discussions on platforms like Twitter and Reddit.",
+          "forums": "Dedicated communities on Bitcointalk and others."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 1 million daily.",
+          "network_hash_rate": "High-level hash rate for Proof of Work.",
+          "mining_difficulty": "Adjusts periodically.",
+          "block_rewards": "6.25 BTC per block, adjusting approximately every 4 years."
+        },
+        "sentiment_score": 9.0
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $10 billion daily.",
+          "market_capitalization": "Around $250 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 500,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://ethereum.org/en/whitepaper/"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Extensive coverage across financial news outlets.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Dedicated communities on Ethereum Stack Exchange and others."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": true,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 500,000 daily.",
+          "network_hash_rate": "N/A (transitioned to Proof of Stake).",
+          "mining_difficulty": "N/A (transitioned to Proof of Stake).",
+          "block_rewards": "Varies with staking rewards."
+        },
+        "sentiment_score": 8.2
+      },
+      {
+        "name": "Hex",
+        "symbol": "HEX",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $50 million daily.",
+          "market_capitalization": "Around $10 billion.",
+          "liquidity": "Medium."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 200,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://hex.com/whitepaper"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Mixed coverage, often discussing potential risks.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Dedicated forums and Reddit communities."
+        },
+        "regulatory_data": {
+          "compliance": false,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 200,000 daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 6.5
+      },
+      {
+        "name": "Safemoon",
+        "symbol": "SFM",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $30 million daily.",
+          "market_capitalization": "Around $1 billion.",
+          "liquidity": "Low."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 100,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://safemoon.net/whitepaper"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Skeptical coverage regarding its long-term viability.",
+          "social_media_posts": "Highly active discussions among supporters and critics.",
+          "forums": "Discussions on Reddit and Telegram communities."
+        },
+        "regulatory_data": {
+          "compliance": false,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 100,000 daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 5.0
+      },
+      {
+        "name": "Tron",
+        "symbol": "TRX",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $600 million daily.",
+          "market_capitalization": "Around $6 billion.",
+          "liquidity": "High."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 1 million active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://tron.network/whitepaper"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Regularly discussed in crypto news.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Communities on Discord and Reddit."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 1 million daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 7.2
+      },
+      {
+        "name": "Verge",
+        "symbol": "XVG",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $10 million daily.",
+          "market_capitalization": "Around $200 million.",
+          "liquidity": "Low."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 50,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://vergecurrency.com/whitepaper"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Minimal coverage compared to larger cryptocurrencies.",
+          "social_media_posts": "Occasional discussions on platforms like Twitter and Reddit.",
+          "forums": "Small dedicated community forums."
+        },
+        "regulatory_data": {
+          "compliance": false,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 50,000 daily.",
+          "network_hash_rate": "Medium-level hash rate.",
+          "mining_difficulty": "Adjusts periodically.",
+          "block_rewards": "Specific to mining pools."
+        },
+        "sentiment_score": 5.5
+      },
+      {
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "market_data": {
+          "price_history": "Available on major financial platforms.",
+          "trading_volume": "Approximately $50 million daily.",
+          "market_capitalization": "Around $2 billion.",
+          "liquidity": "Medium."
+        },
+        "on_chain_data": {
+          "transaction_data": "Publicly accessible on the blockchain.",
+          "wallet_activity": "Over 500,000 active addresses.",
+          "address_balances": "Varies; top addresses hold significant amounts."
+        },
+        "whitepaper": {
+          "exists": true,
+          "url": "https://www.bittorrent.com/token/btt-whitepaper/"
+        },
+        "social_sentiment_data": {
+          "news_articles": "Occasionally covered in tech news.",
+          "social_media_posts": "Active discussions on platforms like Twitter and Reddit.",
+          "forums": "Communities on Discord and Reddit."
+        },
+        "regulatory_data": {
+          "compliance": true,
+          "SEC_verification": false,
+          "legal_status": true
+        },
+        "blockchain_data": {
+          "active_addresses": "Approximately 500,000 daily.",
+          "network_hash_rate": "N/A (Proof of Stake).",
+          "mining_difficulty": "N/A.",
+          "block_rewards": "N/A."
+        },
+        "sentiment_score": 6.7
+      }
+    ]
+  }
+  
