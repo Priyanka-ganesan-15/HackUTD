@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 from datetime import datetime
 
-API_KEY = '7611414363:AAFjNyVPsgfE7hfODHOP9hyhLbvNPSx5Fzg'
-CHATID = '362032442'
+API_KEY = 'BOT_API
+CHATID = 'YourTChatID'
 # Set page config
 st.set_page_config(layout="wide")
 st.title("Selora Bot cPanel")
